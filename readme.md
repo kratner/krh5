@@ -1,5 +1,7 @@
 # HTML5-Sass-ES6-Boilerplate with IIFE Wrapping and Concatenation of JS
-# based on
+
+based on
+
 # HTML5-Sass-ES6-Boilerplate
 
 Template for quickly building websites using HTML5, Sass, and ES6.
