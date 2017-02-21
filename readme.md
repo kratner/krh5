@@ -19,33 +19,32 @@ using gulp-iife and gulp-concat, resulting in single uglified file all.js. - KR*
 html5-sass-boilerplate
 ├──readme.md
 └───src
-    ├──bower_components
     ├──img
     ├──js
-    |   └──first.js
-    |   └──second.js
-    |   └──third.js
+    |   └──module.core.js
+    |   └──module.messages.js
+    |   └──onload.js
     ├──static
     |   └──index.html
     ├──styles
+    |   └──_colors.scss
+    |   └──_media-queries.scss
     |   └──main.scss
     |   └──normalize.css
-    └──svg
+    └──svg (working sample pending)
 ```
 
 ## Output
 ```
 html5-sass-boilerplate
 └───dist
-    ├──bower_components
     ├──index.html
-    ├──img
     ├──js
     |   └──all.js
     ├──styles
     |   └──main.css
     |   └──normalize.css
-    └──svg
+    └──svg (working sample pending)
 ```
 
 # Install Dependencies
